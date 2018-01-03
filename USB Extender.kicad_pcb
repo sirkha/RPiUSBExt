@@ -960,7 +960,7 @@
     (descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x01 2.54mm double row")
     (path /5A4AD6F7)
-    (fp_text reference J5 (at 1.27 -2.33 180) (layer F.SilkS)
+    (fp_text reference J5 (at 5.08 0 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_02x01 (at 1.27 2.33 180) (layer F.Fab) hide
@@ -1002,7 +1002,7 @@
     (descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x02 2.54mm double row")
     (path /5A4AD6FD)
-    (fp_text reference J6 (at -2.6035 3.429) (layer F.SilkS)
+    (fp_text reference J6 (at -2.6035 1.27) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_02x02_Odd_Even (at 1.27 4.87) (layer F.Fab) hide
