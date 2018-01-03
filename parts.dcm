@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ45_LEDS_SHIELD
+D RJ45, status leds
+K RJ45 RJ45_LEDS
+$ENDCMP
+#
+$CMP USB_A_Dual
+D USB Type A connector
+K connector USB
+$ENDCMP
+#
+$CMP USB_A_PCB
+D USB Type A connector
+K connector USB
+$ENDCMP
+#
+#End Doc Library

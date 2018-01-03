@@ -1,0 +1,11 @@
+(module TabEdge (layer F.Cu) (tedit 5A4B1A7F)
+  (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value TabEdge (at 0 -1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 -0.254) (size 0.762 0.762) (drill 0.508) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -1.016 -0.254) (size 0.762 0.762) (drill 0.508) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 1.016 -0.254) (size 0.762 0.762) (drill 0.508) (layers *.Cu *.Mask))
+)
